@@ -1,0 +1,10 @@
+
+body {
+  background: black;
+  color: white;
+}
+
+.movie_app > .row {
+  overflow-x: auto ;
+  flex-wrap: nowrap;
+}
